@@ -8,7 +8,7 @@
 #include <arpa/inet.h>
 
 // StickyServer##.c task 2
-//Worked with Tucker Lehtonen, Lucas Saunders, Hugh Seeley, Daniel Sanchez, Tyler
+//Worked with Tucker Lehtonen, Lucas Saunders, Hugh Seeley, Tyler Smith
 #define PORT 8080       // Port number on which the server will listen
 #define BACKLOG 5       // Maximum number of pending connections
 #define BUFSIZE 1024    // Buffer size for data
